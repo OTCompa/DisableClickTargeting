@@ -1,0 +1,13 @@
+{
+    "Author": "Frey",
+    "InternalName":  "DisableClickTargeting",
+    "Name": "Disable click targeting",
+    "Punchline": "Disable click targeting.",
+    "Description": "Disables targeting other players during combat.",
+    "ApplicableVersion": "any",
+    "Tags": [
+        "sample",
+        "plugin",
+        "goats"
+    ]
+}
